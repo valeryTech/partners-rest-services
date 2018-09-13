@@ -1,7 +1,6 @@
 package tech.valery.partnersrestservices.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Repository;
 import org.springframework.stereotype.Service;
 import tech.valery.partnersrestservices.model.Customer;
 import tech.valery.partnersrestservices.repository.CustomerRepository;
